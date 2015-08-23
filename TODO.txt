@@ -1,0 +1,7 @@
+1. Instalar Synaptic, jdk 8
+2. Instalar Processing
+3. Abrir consola ir a carpeta donde estan los archivos
+4. En consola compilar y correr el archivo c++, comando : "g++ HelloWorld.cpp  -o HelloWorld" "./HelloWorld"
+5. Editar con nano el hello world y poner el string que quieran y correr
+6. Compilar archivo java con "javac HelloWorld.java" luego correrlo con "java HelloWorld"
+7. Editar con nano el HelloWorld.java y poner string que quieran y correr
